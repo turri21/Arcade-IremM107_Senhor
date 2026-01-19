@@ -19,14 +19,14 @@
 #
 # Quartus Prime
 # Version 17.0.2 Build 602 07/19/2017 SJ Lite Edition
-# Date created = 15:16:35  November 26, 2023
+# Date created = 04:12:34  January 19, 2026
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "17.0"
-DATE = "15:16:35  November 26, 2023"
+DATE = "04:12:34  January 19, 2026"
 
 # Revisions
 
-PROJECT_REVISION = "Arcade-IremM107-Fast"
 PROJECT_REVISION = "Arcade-IremM107"
+PROJECT_REVISION = "Arcade-IremM107-Fast"
